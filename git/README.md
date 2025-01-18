@@ -1,1 +1,1 @@
-read me inside git directory
+some new updates
